@@ -1,0 +1,17 @@
+.carousel-item{
+        height:550px;
+}
+/* .jumbotron1{
+        background:lightseagreen;
+} */
+.text{
+        text-align: center;
+}
+.page-footer{
+        background-color: rgb(95, 62, 58);
+}
+.heading{
+        text-align: left;
+        font-style: italic;
+        text-decoration-color: darkorange;
+}
